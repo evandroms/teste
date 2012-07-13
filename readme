@@ -1,0 +1,7 @@
+#include x
+#include y
+
+void (main) void{
+  print('mamae');
+  getch();
+}
